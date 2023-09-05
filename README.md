@@ -1,2 +1,2 @@
-# JossiCof
+# Jossy-Caf
 Cafeteria 
